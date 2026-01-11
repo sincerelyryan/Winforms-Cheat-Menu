@@ -1,0 +1,9 @@
+C:\Users\noman\source\repos\kumaware\kumaware\obj\Debug\flight.ftc.csproj.AssemblyReference.cache
+C:\Users\noman\source\repos\kumaware\kumaware\obj\Debug\kumaware.esptabstuff.resources
+C:\Users\noman\source\repos\kumaware\kumaware\obj\Debug\kumaware.Tabs.misctab.resources
+C:\Users\noman\source\repos\kumaware\kumaware\obj\Debug\kumaware.playerstab.resources
+C:\Users\noman\source\repos\kumaware\kumaware\obj\Debug\kumaware.Form1.resources
+C:\Users\noman\source\repos\kumaware\kumaware\obj\Debug\kumaware.aim.resources
+C:\Users\noman\source\repos\kumaware\kumaware\obj\Debug\flight.ftc.Properties.Resources.resources
+C:\Users\noman\source\repos\kumaware\kumaware\obj\Debug\flight.ftc.csproj.GenerateResource.cache
+C:\Users\noman\source\repos\kumaware\kumaware\obj\Debug\flight.ftc.csproj.CoreCompileInputs.cache

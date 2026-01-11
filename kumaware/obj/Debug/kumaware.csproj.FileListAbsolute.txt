@@ -1,0 +1,16 @@
+C:\Users\noman\source\repos\kumaware\kumaware\bin\Debug\kumaware.exe.config
+C:\Users\noman\source\repos\kumaware\kumaware\bin\Debug\kumaware.exe
+C:\Users\noman\source\repos\kumaware\kumaware\bin\Debug\kumaware.pdb
+C:\Users\noman\source\repos\kumaware\kumaware\obj\Debug\kumaware.csproj.AssemblyReference.cache
+C:\Users\noman\source\repos\kumaware\kumaware\obj\Debug\kumaware.esptabstuff.resources
+C:\Users\noman\source\repos\kumaware\kumaware\obj\Debug\kumaware.Tabs.misctab.resources
+C:\Users\noman\source\repos\kumaware\kumaware\obj\Debug\kumaware.playerstab.resources
+C:\Users\noman\source\repos\kumaware\kumaware\obj\Debug\kumaware.Form1.resources
+C:\Users\noman\source\repos\kumaware\kumaware\obj\Debug\kumaware.aim.resources
+C:\Users\noman\source\repos\kumaware\kumaware\obj\Debug\kumaware.Properties.Resources.resources
+C:\Users\noman\source\repos\kumaware\kumaware\obj\Debug\kumaware.csproj.GenerateResource.cache
+C:\Users\noman\source\repos\kumaware\kumaware\obj\Debug\kumaware.csproj.CoreCompileInputs.cache
+C:\Users\noman\source\repos\kumaware\kumaware\obj\Debug\kumaware.csproj.Fody.CopyLocal.cache
+C:\Users\noman\source\repos\kumaware\kumaware\obj\Debug\kumaware.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\noman\source\repos\kumaware\kumaware\obj\Debug\kumaware.exe
+C:\Users\noman\source\repos\kumaware\kumaware\obj\Debug\kumaware.pdb
