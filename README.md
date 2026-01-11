@@ -11,7 +11,6 @@ This menu includes 2 custom controls, a custom graph and a custom slider.
 
 Player Tab was lazy but everything else is much better.
 
-![UI Screenshot](1.png)
-![UI Screenshot](2.png)
-![UI Screenshot](3.png)
-![UI Screenshot](4.png)
+![UI Screenshot 1](1.png)  ![UI Screenshot 2](2.png)
+
+![UI Screenshot 3](3.png)  ![UI Screenshot 4](4.png)
