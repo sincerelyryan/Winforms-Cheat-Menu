@@ -9,3 +9,4 @@ Just a UI that can be used for cheats and such, following nuget packages below w
 
 This menu includes 2 custom controls, a custom graph and a custom slider.
 
+Player Tab was lazy but everything else is much better.
